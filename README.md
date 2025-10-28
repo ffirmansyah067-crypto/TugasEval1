@@ -42,3 +42,4 @@ Secara ringkas, PT Radagast Konstruksi Tbk berfungsi sebagai pelaksana pembangun
 
 ### Halaman Detail Proyek
 Setiap proyek memiliki halaman detail terpisah dengan informasi lengkap.
+@ Manzz Cruiserr 2025
